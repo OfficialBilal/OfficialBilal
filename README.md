@@ -65,19 +65,7 @@ class Program
   
   <br /><br />
 
-  <a href="https://linktr.ee/Aditya.Singh.R">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect+with+me" alt="Connect Typing SVG" />
-  </a>
-
-  <br /><br />
-
-
-  <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=EchoSingh&theme=tokyonight-duo&hide_border=true&border_radius=4" alt="GitHub Streak Stats" />
-
-  <br /><br />
-
-
-  <img src="https://raw.githubusercontent.com/EchoSingh/EchoSingh/main/github-metrics-main.svg" alt="GitHub Metrics" />
+  
 
 ### 👥 My Followers
 
@@ -246,10 +234,10 @@ class Program
 
 <div id="greetings" align="center">
 <h1>
-  Hey, I'm Dmitry!
+  Hey, I'm Bilal!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h2>Python developer. </h2>
+<h2>C# developer. </h2>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/dmitry-alekseev-py/">
