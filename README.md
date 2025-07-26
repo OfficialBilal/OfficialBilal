@@ -49,7 +49,6 @@ class Program
 
 ````
 </p>
-<p align="center"><i>- Muhammad Bilal -</i></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!" alt="Typing Animation" />
    
@@ -58,12 +57,12 @@ class Program
 <br /><br />
 <div align="center">
   
-  <a href="https://github.com/EchoSingh">
+  <a href="https://github.com/OfficialBilal">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=8000&pause=1000&center=true&repeat=true&width=435&lines=Hi+I'm+Muhammad+Bilal" alt="Typing SVG" />
   </a>
   <br />
  
-  <img src="https://i.gifer.com/XOsa.gif" alt="bat flying" width="150" />
+  
   <br /><br />
 
   <a href="https://linktr.ee/Aditya.Singh.R">
