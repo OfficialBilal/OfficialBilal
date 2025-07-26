@@ -56,8 +56,6 @@ class Program
   <img src="https://github.com/EchoSingh/EchoSingh/blob/output/snake-realistic.svg" alt="Contribution Snake Animation" />
   
 <br /><br />
-<details>
-<summary>more</summary>
 <div align="center">
   
   <a href="https://github.com/EchoSingh">
