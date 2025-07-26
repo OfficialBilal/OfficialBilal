@@ -30,15 +30,23 @@ Feel free to connect with me. Let's build something amazing together!
 
 <p align="center">
   
-```cpp
-#include <iostream>
 
-int main() {
-    auto transcend = []() {
-        return "while (speed <= light) break; // Go beyond";
-    };
-    std::cout << transcend() << '\n';
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Func<string> transcend = () =>
+        {
+            return "while (speed <= light) break; // Go beyond";
+        };
+
+        Console.WriteLine(transcend());
+    }
 }
+
 ````
 </p>
 <p align="center"><i>- Aditya Singh -</i></p>
