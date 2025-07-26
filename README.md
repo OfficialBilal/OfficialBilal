@@ -59,7 +59,7 @@ class Program
 <div align="center">
   
   <a href="https://github.com/EchoSingh">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=8000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Muhammad+Bilal" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=8000&pause=1000&center=true&repeat=true&width=435&lines=Hi+I'm+Muhammad+Bilal" alt="Typing SVG" />
   </a>
   <br />
  
